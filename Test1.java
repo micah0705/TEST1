@@ -6,5 +6,7 @@ class Test1
 		System.out.println(" World");
 		System.out.ptintln("  JAVA");
 		System.out.println("   Programming");
+
+		//writer : kim tae hee
 	}
 }
